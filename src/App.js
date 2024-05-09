@@ -1,15 +1,10 @@
 import './App.css';
-import MapComponent from './components/mapComponent';
+import Home from './views/home';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>Resources Map App</p>
-      </header>
-      <body>
-        <MapComponent />
-      </body>
+      <Home />
     </div>
   );
 }
