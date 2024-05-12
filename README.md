@@ -20,5 +20,8 @@ To get this project working locally, clone the repo onto your local machine.
 - Go to ```http://localhost:3000``` to see the app
 
 
+The project site can be found [here](https://africa-resources.netlify.app/)
+
+
 
 
