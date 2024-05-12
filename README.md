@@ -1,5 +1,7 @@
 # Resources Map
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ca727c11-8407-4ef0-ac22-99afeb655c8b/deploy-status)](https://app.netlify.com/sites/africa-resources/deploys)
+
 This is an interactive map app. 
 It is built as a Legacy Project for the Women in Geospatial Mentorship Programme 2024.
 
