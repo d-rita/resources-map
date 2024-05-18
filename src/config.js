@@ -7,3 +7,5 @@ export const POTASH_WFS_URL = process.env.REACT_APP_POTASH_LAYER_URL
 export const MINERALS_WFS_URL = process.env.REACT_APP_MINERALS_LAYER_URL
 
 export const BOUNDARIES_WFS_URL = process.env.REACT_APP_BOUNDARIES_LAYER_URL
+
+export const BOUNDARIES_WMS_URL = process.env.REACT_APP_BOUNDARIES_WMS_URL
