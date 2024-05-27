@@ -27,7 +27,7 @@ const Home = () => {
       </section>
       <footer style={{ textAlign: "center" }}>
         <p >
-          This work is done by <span style={{ fontWeight: 'bold' }}>D'rita</span> under the WiG+ Legacy Project (2024)
+          This work is done by <a href="https://github.com/d-rita"><span style={{ fontWeight: 'bold', color: 'black' }}>Diana Nanyanzi</span></a> under the W+G Legacy Project (2024)
         </p>
       </footer>
     </Container>
